@@ -1,6 +1,6 @@
 <template>
-  <v-app dark>
-    <v-toolbar></v-toolbar>
+  <v-app>
+    <v-toolbar class="deep-purple"></v-toolbar>
     <v-content>
       <router-view/>
     </v-content>
